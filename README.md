@@ -1,3 +1,4 @@
+This version is Add face detection to python.
 
 ## Visual Stuido Cmake 64bit를 빌드할 때
     3rdparty 의 openpose.dir폴더 전체를 'cmake하는 경로'\src\openpose\CMakeFiles 에 카피해주세요.
