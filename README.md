@@ -3,6 +3,7 @@
     3rdparty 의 openpose.dir폴더 전체를 'cmake하는 경로'\src\openpose\CMakeFiles 에 카피해주세요.
     각각의 cu.obj파일을 64bit에 맞게 수정했음.
 ## Python으로 Face detection 추가함
+    openpose.py 파일과 _openpose.cpp 파일을 수정함.
 
 -----------------
 
