@@ -1,6 +1,8 @@
-<div align="center">
-    <img src=".github/Logo_main_black.png", width="300">
-</div>
+
+## Visual Stuido Cmake 64bit를 빌드할 때
+    3rdparty 의 openpose.dir폴더 전체를 'cmake하는 경로'\src\openpose\CMakeFiles 에 카피해주세요.
+    각각의 cu.obj파일을 64bit에 맞게 수정했음.
+## Python으로 Face detection 추가함
 
 -----------------
 
